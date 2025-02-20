@@ -4,18 +4,18 @@
 
 1. cmake
 2. PCL
-3. OpenCV
-4. python
-5. Eigen3
+3. python
+4. Eigen3
 
 #### 2. Run
+```
 cd ~/catkin_ws/src
-git clone https://github.com/zhongbusishaonianyou/Image_fingerprint.git
+git clone https://github.com/zhongbusishaonianyou/Scan-context.git
 cd ..
 catkin_make 
 source devel/setup.bash
-rosrun fingerprint binary_fingerprint 
-
+rosrun scan_context scan_context 
+```
 #### 3.visualize pr curve
 
 1. please open draw.py file and revise  sequence 
@@ -26,7 +26,7 @@ rosrun fingerprint binary_fingerprint
 
    | KITTI 00                                                     |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | ![00](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/00.png) | ![00_traj](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/00_traj.png) |
+   |   ![Figure_7](https://github.com/user-attachments/assets/5fdb3525-878b-4e82-bdda-61850cc30eff) | ![Figure_8](https://github.com/user-attachments/assets/f7295f69-de7c-4416-be48-60c8a3890901)|
 
    
 
