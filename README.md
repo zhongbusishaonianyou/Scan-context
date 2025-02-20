@@ -24,17 +24,22 @@ rosrun scan_context scan_context
 
 3. you will see  following images:
 
-   | KITTI 00                                                     |                                                              |
+   |                                                    KITTI 00  |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
    |   ![Figure_7](https://github.com/user-attachments/assets/5fdb3525-878b-4e82-bdda-61850cc30eff) | ![Figure_8](https://github.com/user-attachments/assets/f7295f69-de7c-4416-be48-60c8a3890901)|
 
    
 
-   | KITTI 02                                                     |                                                              |
+   |                                                    KITTI 02  |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | ![02](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/02.png) | ![02_traj](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/02_traj.png) |
+   | ![Figure_5](https://github.com/user-attachments/assets/fd18bbb7-08ce-49ab-8c9b-26ac31eefcff) |  ![Figure_6](https://github.com/user-attachments/assets/9978df92-eaa4-44be-90ad-127685333aa0)
+                                   |
 
-   | KITTI 08                                                     |                                                              |
+   |                                                    KITTI 05  |                                                              |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   |   ![Figure_1](https://github.com/user-attachments/assets/d16ac402-90b3-47c6-a6ac-c1ccd9144050) | ![Figure_2](https://github.com/user-attachments/assets/19c19818-d2f6-48f8-9da8-c78f3c828638) |
+
+    |                                                    KITTI 08  |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
    | ![08](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/08.png) | ![08_traj](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/08_traj.png) |
 
@@ -42,33 +47,14 @@ rosrun scan_context scan_context
 
 #### 4. cite
 
-
-
 ```
-@ARTICLE{10187686, 
-    author={Zhang, Guangyi and Zhang, Tao and Zhao, Shenggen and Hou, Lanhua}, 
-    journal={IEEE Robotics and Automation Letters}, 
-    title={Binary Image Fingerprint: Stable Structure Identifier for 3D LiDAR Place Recognition}, 
-    year={2023}, volume={8}, number={9}, pages={5648-5655},  
-    doi={10.1109/LRA.2023.3297063}
-    }
-@article{cui2022bow3d,
-  title={BoW3D: Bag of Words for Real-Time Loop Closing in 3D LiDAR SLAM},
-  author={Cui, Yunge and Chen, Xieyuanli and Zhang, Yinlong and Dong, Jiahua and Wu, Qingxiao and Zhu, Feng},
-  journal={IEEE Robotics and Automation Letters},
-  year={2022},
-  publisher={IEEE}
+@INPROCEEDINGS { gkim-2018-iros,
+  author = {Kim, Giseop and Kim, Ayoung},
+  title = { Scan Context: Egocentric Spatial Descriptor for Place Recognition within {3D} Point Cloud Map },
+  booktitle = { Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems },
+  year = { 2018 },
+  month = { Oct. },
+  address = { Madrid }
 }
-@INPROCEEDINGS{9341010,
-  author={Wang, Ying and Sun, Zezhou and Xu, Cheng-Zhong and Sarma, Sanjay E. and Yang, Jian and Kong, Hui},
-  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-  title={LiDAR Iris for Loop-Closure Detection}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={5769-5775},
-  keywords={Iris;Three-dimensional displays;Laser radar;Protocols;Image representation;Robot sensing systems;Intelligent robots},
-  doi={10.1109/IROS45743.2020.9341010}
-  }
 
 ```
