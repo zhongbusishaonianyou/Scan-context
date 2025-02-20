@@ -26,22 +26,19 @@ rosrun scan_context scan_context
 
    |                                                    KITTI 00  |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   |   ![Figure_7](https://github.com/user-attachments/assets/5fdb3525-878b-4e82-bdda-61850cc30eff) | ![Figure_8](https://github.com/user-attachments/assets/f7295f69-de7c-4416-be48-60c8a3890901)|
-
-   
+   | ![Figure_7](https://github.com/user-attachments/assets/5fdb3525-878b-4e82-bdda-61850cc30eff) |![Figure_8](https://github.com/user-attachments/assets/f7295f69-de7c-4416-be48-60c8a3890901)|
 
    |                                                    KITTI 02  |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | ![Figure_5](https://github.com/user-attachments/assets/fd18bbb7-08ce-49ab-8c9b-26ac31eefcff) |  ![Figure_6](https://github.com/user-attachments/assets/9978df92-eaa4-44be-90ad-127685333aa0)
-                                   |
+   | ![Figure_5](https://github.com/user-attachments/assets/fd18bbb7-08ce-49ab-8c9b-26ac31eefcff) | ![Figure_6](https://github.com/user-attachments/assets/9978df92-eaa4-44be-90ad-127685333aa0)|
 
    |                                                    KITTI 05  |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   |   ![Figure_1](https://github.com/user-attachments/assets/d16ac402-90b3-47c6-a6ac-c1ccd9144050) | ![Figure_2](https://github.com/user-attachments/assets/19c19818-d2f6-48f8-9da8-c78f3c828638) |
+   | ![Figure_1](https://github.com/user-attachments/assets/d16ac402-90b3-47c6-a6ac-c1ccd9144050) | ![Figure_2](https://github.com/user-attachments/assets/19c19818-d2f6-48f8-9da8-c78f3c828638)|
 
-    |                                                    KITTI 08  |                                                              |
+   |                                                     KITTI 08 |                                                              |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | ![08](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/08.png) | ![08_traj](/home/zgy/ROS/Binary_fingerprint/src/BIF-main/png/08_traj.png) |
+   |  ![Figure_3](https://github.com/user-attachments/assets/b86b1178-8a88-444b-bbf5-cb1ca4c823f7)| ![Figure_4](https://github.com/user-attachments/assets/316643e4-8ac2-4e79-9b88-551de6d80db0)| 
 
    
 
